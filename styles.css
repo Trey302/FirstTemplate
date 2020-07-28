@@ -29,12 +29,12 @@ img {
 
     @keyframes img {
         to {
-            margin-bottom: 10%;
+            margin-left: 40%;
             width: 30%;
         }
 
         from {
-            margin-bottom: 0%;
+            margin-right: 40%;
             width: 30%;
         }
     }
